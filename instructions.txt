@@ -1,0 +1,7 @@
+go to tutorial application
+go to tutorials.py 
+run command in terminal 
+scrap crawl tutor
+all header will be displayed which is inserted in the website
+next,to check the headers saved in json,sml and csv just go to that files which are upladed in github account link check that.
+all headers are uploaded in that format.
